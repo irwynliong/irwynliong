@@ -1,7 +1,6 @@
 <h1 >Hi there 👋, I'm Irwyn Liong! 🤗</h1>
-<h2 align="center">A passionate builder in the Defi space!₿ 👉 [My website](https://portfolio-irwynliongs-projects.vercel.app/)</h2>
+<h2 align="center">A passionate builder in the Defi space!₿</h2>
 <h3 Always looking for new opportunities to grow!🔥</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irwynliong&label=Profile%20views&color=0e75b6&style=flat" alt="irwynliong" /> </p>
 
 
