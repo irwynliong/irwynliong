@@ -1,11 +1,19 @@
-<h1 >Hi there 👋, I'm Irwyn Liong! 🤗</h1>
-<h2 align="center">A passionate builder in the Defi space!₿</h2>
+# Hi there 👋, I'm Irwyn Liong! 🤗
+### Here is my 👉🏼 [website](https://portfolio-irwynliongs-projects.vercel.app/)
+<h2 align="center">I am a passionate builder in the Defi space!₿</h2>
 <h3 Always looking for new opportunities to grow!🔥</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irwynliong&label=Profile%20views&color=0e75b6&style=flat" alt="irwynliong" /> </p>
 
+## 🛠️ I am interested in
+### Software development and/or product management in the finance industry💰
 
+## My hobbies are
+- 🏐 Volleyball
+- 🕹️ Gaming
+- 🗺️ Travelling
+- 🎾 Tennis
 
-## 💻 Skills
+## 💻 Skills 🤓
 
 <details>
   <summary>
