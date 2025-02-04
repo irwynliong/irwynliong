@@ -51,7 +51,6 @@
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   </p>
 </details>
@@ -138,9 +137,9 @@
   </p>
 </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irwynliong&show_icons=true&locale=en&layout=compact" alt="irwynliong" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irwynliong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="irwynliong" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irwynliong&show_icons=true&locale=en" alt="irwynliong" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irwynliong&show_icons=true&locale=en&theme=tokyonight" alt="irwynliong" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
